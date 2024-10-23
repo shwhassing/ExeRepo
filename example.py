@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
 Created on Wed Oct 23 15:24:07 2024.
-
-@author: shwhassing
+        
+@author: shwhassing 
 """
 
 def add(a, b):
@@ -15,7 +15,7 @@ def test_add():
 
 
 def subtract(a, b):
-    return a + b  # <--- fix this in step 8
+    return a - b  # <--- fix this in step 8
 
 
 # uncomment the following test in step 5
